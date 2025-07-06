@@ -1,0 +1,6 @@
+scikit-learn
+xgboost
+pandas
+flask
+boto3
+python-dotenv
